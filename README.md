@@ -33,13 +33,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='twtwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I didn't realize I was using the wrong version of the Twitter API and that had me stumped for a while. 
+I didn't realize I was using the wrong version of the Twitter API and that had me stumped for a while because I kept getting the IllegalStateException error and upon looking at the response was when I realized. Besides that, the rest of making this app went smoothly. 
 
 ## Open-source libraries used
 
