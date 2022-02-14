@@ -48,4 +48,4 @@ I didn't realize I was using the wrong version of the Twitter API and that had m
 
 ## License
 
-    Copyright [2022] [Angela Cruz & Twitter, Inc.]
+    Copyright [2022] [Angela Cruz & Twitter, Inc. & Codepath.org]
